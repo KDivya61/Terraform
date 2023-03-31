@@ -7,3 +7,4 @@ resource "aws_instance" "ec2" {
         name="test"
     }
 }
+# changed the instance to new workstation.
